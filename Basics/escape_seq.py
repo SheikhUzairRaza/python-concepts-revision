@@ -9,7 +9,7 @@
 # \n  -> New line
 # \t  -> Tab
 # \r  -> Carriage return
-# \b  -> Backspace
+# \b  -> Backspace  
 
 # Example: Using \n to print a new line in the output.
 print("Hello world\nI am revising Python concepts")
